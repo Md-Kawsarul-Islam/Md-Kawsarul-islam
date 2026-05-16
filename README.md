@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](#)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Md.Kawsarul.islamm)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/kawsarulislamwp)
-[![Profile Views](https://komarev.com/ghpvc/?username=jahidhasanpiyesh&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/Md-Kawsarul-Islam/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Md-Kawsarul-Islam&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/Md-Kawsarul-Islam)
 </div>
 
 ---
