@@ -1,21 +1,42 @@
-# 💫 About Me:
-<div align="center"><br><br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Md.%20Kawsarul%20Islam&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20WordPress%20Expert%20|%20CSE%20Student&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/><br><br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;WordPress+Developer+%26+Tech+Enthusiast;Learning+Python+%26+AI;Building+Modern+Digital+Solutions;Founder+%40+Codefuturist;Passionate+About+Innovation+%26+Creativity)](https://git.io/typing-svg)<br><br><br/><br><br><p align="center"><br>  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0ea5e9&style=for-the-badge" /><br></p><br><br></div><br><br>---<br><br># 💫 About Me<br><br>```python<br>class MdKawsarulIslam:<br><br>    def __init__(self):<br>        self.role = "Full Stack Web Developer"<br>        self.education = "CSE Student @ Sonargaon University"<br>        self.company = "Web Officer @ Codefuturist"<br>        self.experience = "4+ Years"<br><br>    def current_focus(self):<br>        return [<br>            "Full Stack Web Development",<br>            "WordPress Development",<br>            "Python & AI",<br>            "Building SaaS Products",<br>            "Modern UI/UX Design"<br>        ]<br><br>    def hobbies(self):<br>        return [<br>            "Photography 📸",<br>            "Traveling ✈️",<br>            "Reading 📚",<br>            "Networking 🤝"<br>        ]<br><br>    def life_philosophy(self):<br>        return "Build. Learn. Grow. Repeat."
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Md.%20Kawsarul%20Islam&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20WordPress%20Expert%20|%20CSE%20Student&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-kawsarul-islamm/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.kawsarulislam@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;WordPress+Developer+%26+Tech+Enthusiast;Learning+Python+%26+AI;Building+Modern+Digital+Solutions;Founder+%40+Codefuturist;Passionate+About+Innovation+%26+Creativity)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Md-Kawsarul-Islam&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Md-Kawsarul-Islam&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Kawsarul-Islam&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=Md-Kawsarul-Islam&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Md-Kawsarul-Islam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+```python
+class MdKawsarulIslam:
+
+    def __init__(self):
+        self.role = "Full Stack Web Developer"
+        self.education = "CSE Student @ Sonargaon University"
+        self.company = "Web Officer @ Codefuturist"
+        self.experience = "4+ Years"
+
+    def current_focus(self):
+        return [
+            "Full Stack Web Development",
+            "WordPress Development",
+            "Python & AI",
+            "Building SaaS Products",
+            "Modern UI/UX Design"
+        ]
+
+    def hobbies(self):
+        return [
+            "Photography 📸",
+            "Traveling ✈️",
+            "Reading 📚",
+            "Networking 🤝"
+        ]
+
+    def life_philosophy(self):
+        return "Build. Learn. Grow. Repeat."
