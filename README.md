@@ -17,15 +17,12 @@
 
 ```python
 class MdKawsarulIslam:
+        role = "Full Stack Web Developer"
+        education = "CSE Student @ Sonargaon University"
+        company = "Web Officer @ Codefuturist"
+        experience = "4+ Years"
 
-    def __init__(self):
-        self.role = "Full Stack Web Developer"
-        self.education = "CSE Student @ Sonargaon University"
-        self.company = "Web Officer @ Codefuturist"
-        self.experience = "4+ Years"
-
-    def current_focus(self):
-        return [
+    current_focus = [
             "Full Stack Web Development",
             "WordPress Development",
             "Python & AI",
@@ -33,46 +30,45 @@ class MdKawsarulIslam:
             "Modern UI/UX Design"
         ]
 
-    def hobbies(self):
-        return [
+    hobbies = [
             "Photography 📸",
             "Traveling ✈️",
             "Reading 📚",
             "Networking 🤝"
         ]
 
-    def life_philosophy(self):
-        return "Build. Learn. Grow. Repeat."
+    life_philosophy = "Build. Learn. Grow. Repeat."
+```
+---
+
 ## ⚙️ Tech Stack & Expertise
 
 ### 🖥️ Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-thebadge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
 ### 🧩 Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
----
-
-### 🤖 AI & Learning (Basic / Exploring)
+### 🤖 AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
 
 ### 🔁 Tools & Dev Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -186,7 +182,9 @@ Complete e-commerce web application with product management, cart system, and ad
 🌐  WordPress Development              █████████████░░░░░░░   75% — Themes & customization practice
 📚  CSE Degree Progress               ███████████████░░░░░   80% — Core CS subjects (DSA, OS, DBMS)
 🧠  AI/ML Basics Exploration           ████████░░░░░░░░░░░░   40% — Learning OpenAI & OpenCV
+```
 </div>
+
 ---
 
 ## 🤝 Let's Connect & Collaborate
